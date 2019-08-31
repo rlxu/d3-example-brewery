@@ -43,3 +43,11 @@
 .Chart-desc {
   width: 500px;
 }
+
+.Chart-row {
+  display: inline-flex;
+}
+
+.Chart-item {
+  padding: 32px;
+}
